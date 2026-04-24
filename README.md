@@ -14,4 +14,4 @@ Actualmente explorando el uso práctico de IA y LLMs aplicados a software real.
 - Arquitectura moderna
 - Productividad y automatización
 
-📫 Contacto: linkedin.com/in/tu-url
+📫 Contacto: edurnedelapresa@hotmail.com
