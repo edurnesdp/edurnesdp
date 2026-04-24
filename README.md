@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Edurne
 
-Arquitecta de producto con experiencia en backend (Java, Spring Boot, AWS).
-Actualmente explorando el uso práctico de IA y LLMs aplicados a software real.
+Arquitecta de producto con experiencia en desarrollo backend y arquitectura de sistemas.
+Trabajo en proyectos tecnológicos desde Bilbao y actualmente estoy explorando el uso práctico de IA y LLMs en software real.
 
 ### 🔧 Tech stack
 - Java, Spring Boot, Microservicios
